@@ -1,0 +1,41 @@
+.skin-blue .main-header .navbar {
+    background-color: #ffc107!important;
+}
+
+.skin-blue .main-header .logo {
+    background-color: #ffc107 !important;
+    color: #fff;
+    border-bottom: 0 solid transparent
+}
+
+.btn-primary {
+    background-color: black !important;
+    border-color: #367fa9;
+}
+
+
+.pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover {
+    z-index: 3;
+    color: #fff;
+    cursor: default;
+    background-color: black !important;;
+    border-color: black !important;;
+}
+
+
+element.style {
+    background: #ffc107 !important;
+    color: white;
+}
+
+.login-page #back {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background: #ffc107 !important;
+    background-size: cover;
+    overflow: hidden;
+    z-index: -1;
+}
